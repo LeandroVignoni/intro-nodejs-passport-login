@@ -1,0 +1,1 @@
+Simple login-register boilerplate. Using node.js, passport and ejs template system. Local strategy implemented, also with redirects, session and flash messages.   
